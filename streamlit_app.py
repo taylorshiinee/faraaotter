@@ -4,7 +4,7 @@ st.title("🎈 Hello Otter")
 st.write(
     "Let's start building! For help and inspiration, head over to [docs.streamlit.io](https://docs.streamlit.io/)."
 )
-st.image("miku.jpg", width=200)
+st.image("ce712ded6129affb8178033894b71a4e (1).jpg", width=200)
 
 
 st.title("Aplikasi Sederhana")
